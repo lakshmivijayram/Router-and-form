@@ -1,0 +1,27 @@
+.article-form-container {
+    max-width: 600px;
+    margin: auto;
+}
+body {
+    background-color: lightgrey;
+}
+.form-group {
+    margin-bottom: 10px;
+}
+  
+label {
+    display: block;
+    margin-bottom: 5px;
+ }
+  
+.error {
+    color: red;
+    font-size: 14px;
+}
+
+button {
+    width: 77px;
+    height: 30px;
+    font-size: 14px;
+    background-color: lightcoral;
+}
